@@ -26,3 +26,13 @@
 - Modify Platfrom_ID(AMD, Intel, NVIDIA) and Device_ID(GPU0, GPU1...) to select OpenCL target
 
 - Also can use ctx = cl.create_some_context() instead cl.Context() to select OpenCL target every time you run the code
+
+---
+
+## Support
+
+<div align="center">
+  <a href="https://buymeacoffee.com/arcton" target="_blank">
+    <img src="buymeacoffee.jpg" alt="Buy Me A Coffee" width="360">
+  </a>
+</div>
